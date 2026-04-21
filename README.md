@@ -1,4 +1,4 @@
-# cbe-moodle-course-builder
+# CBE Moodle Course Builder
 
 Generate Moodle course (MBZ files) automatically from CSV data and XML templates. This project creates ready-to-import Moodle course backup files.
 
