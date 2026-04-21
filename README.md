@@ -44,7 +44,7 @@ python3 generate_templates.py
 
 What this does:
 - Reads the CSV file containing your course data
-- Creates a folder for each course in the `generated_backups` directory
+- Creates a folder for each course in the `generated_backups` directory. The `generated_backups` directory will be auto generated when you run the script, no need to create that directory yourself.
 - Populates each folder with course content and XML configuration files
 
 ### Step 3: Create Moodle Backup Files (MBZ)
@@ -65,7 +65,6 @@ What this does:
 1. Log in to your Moodle site as an administrator
 2. Go to Site Administration > Courses > Restore
 3. Upload each `.mbz` file from the `moodle_mbz_backups` folder
-4. Follow the Moodle import wizard to complete the course setup
 
 ---
 
@@ -81,9 +80,3 @@ What this does:
 
 ---
 
-## Troubleshooting
-
-- If you get "command not found" errors, make sure Python 3 is installed
-- If you get import errors, ensure you ran `pip install -r requirements.txt`
-- Make sure the `template` folder is in the same directory as the scripts
-- Verify the `Automatic-Links.csv` file exists and is properly formatted 
