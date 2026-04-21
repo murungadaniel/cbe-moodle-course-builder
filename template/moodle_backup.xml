@@ -99,14 +99,14 @@
         </section>
         <section>
           <sectionid>2</sectionid>
-          <title>🔢 Lesson 1</title>
+          <title>Lesson 1</title>
           <directory>sections/section_2</directory>
           <parentcmid></parentcmid>
           <modname></modname>
         </section>
         <section>
           <sectionid>10</sectionid>
-          <title>🏅 Completion Certificate</title>
+          <title>Completion Certificate</title>
           <directory>sections/section_10</directory>
           <parentcmid></parentcmid>
           <modname></modname>
