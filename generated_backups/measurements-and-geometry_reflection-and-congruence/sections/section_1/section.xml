@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1">
+  <number>0</number>
+  <name></name>
+  <summary>&lt;div class="cbc-banner"&gt;
+  &lt;div class="cbc-banner-grid"&gt;
+
+    &lt;div class="cbc-titleintro"&gt;
+      &lt;div class="cbc-title"&gt;
+        Welcome to the Course
+      &lt;/div&gt;
+
+      &lt;p class="cbc-intro"&gt;
+        This course provides teaching resources and a platform to exchange with other teachers.
+        It is based on this
+        &lt;a href="https://innodems.github.io/CBC-Grade-10-Maths/frontmatter.html" target="_blank"&gt;
+          interactive open teaching and learning resource
+        &lt;/a&gt;
+        which is aligned with the Kenyan Grade 10 CBC Maths curriculum.
+      &lt;/p&gt;
+
+      &lt;p class="cbc-intro"&gt;
+        A
+        &lt;a href="[Insert url for the student textbook on the relevant section or subsection]" target="_blank"&gt;
+          student version
+        &lt;/a&gt;
+        is available to be shared with students who have access to devices.
+        Students can practice at their own pace on "Checkpoint" questions that give instant feedback.
+      &lt;/p&gt;
+
+      &lt;p class="cbc-smallprint"&gt;
+        These materials are co-developed by INNODEMS, IDEMS, and The Kenya Mathematical Society (KMS).
+      &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class="cbc-imagewrap"&gt;
+      &lt;img
+        src="[insert url for image file uploaded to the files section at the end]"
+        alt="Real Numbers"
+        class="cbc-course-image"&gt;
+    &lt;/div&gt;
+
+    &lt;div class="cbc-infogrid"&gt;
+      &lt;div&gt;
+        &lt;div class="cbc-label"&gt;Duration&lt;/div&gt;
+        &lt;div&gt;[insert duration in hours]&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class="cbc-spacer-sm"&gt;&lt;/div&gt;
+
+      &lt;div class="cbc-label"&gt;Facilitators&lt;/div&gt;
+
+      &lt;div class="cbc-fac-row"&gt;
+        &lt;div&gt;Dr. Michael Obiero&lt;/div&gt;
+        &lt;div&gt;
+          &lt;a href="mailto:obiero@maseno.ac.ke" target="_blank" rel="noopener"&gt;
+            obiero@maseno.ac.ke
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;+254737456117&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class="cbc-fac-row"&gt;
+        &lt;div&gt;Zachariah Mbasu&lt;/div&gt;
+        &lt;div&gt;
+          &lt;a href="mailto:zmbasu@innodems.org" target="_blank" rel="noopener"&gt;
+            zmbasu@innodems.org
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;+254722124199&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cbc-logo-strip"&gt;
+  &lt;img
+    src="$@PLUGINFILEBYCONTEXT*32@$/mod_resource/content/1/INNODEMS_logo.png"
+    alt="INNODEMS"
+    class="cbc-logo cbc-logo-sm"&gt;
+
+  &lt;img
+    src="$@PLUGINFILEBYCONTEXT*31@$/mod_resource/content/1/KMS_logo.png"
+    alt="Kenya Mathematical Society"
+    class="cbc-logo cbc-logo-lg"&gt;
+
+  &lt;img
+    src="$@PLUGINFILEBYCONTEXT*33@$/mod_resource/content/1/IDEMS_logo.png"
+    alt="IDEMS International"
+    class="cbc-logo cbc-logo-sm"&gt;
+&lt;/div&gt;
+
+&lt;div class="cbc-caption"&gt;
+  Delivered jointly by INNODEMS, the Kenya Mathematical Society (KMS), and IDEMS International
+&lt;/div&gt;
+
+&lt;div class="cbc-section"&gt;
+
+  &lt;p&gt;
+    This course is intended to provide teachers with resources to help teaching CBE-aligned Grade 10 mathematics,
+    and create a forum for teachers to share resources and experiences on the delivery of the Kenyan grade 10 math.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    We also have a more general course on
+    &lt;a href="$@COURSEVIEWBYID*4@$" target="_blank"&gt;
+      Competency Based Education Math delivery
+    &lt;/a&gt;.
+    We suggest taking this course first if this is your first time teaching using CBE Maths.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Enhance your CBE grade 10 teaching with ease: Spend less time on preparation and more time supporting your learners!
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    This particular course is for Chapter [insert chapter number], Section [insert section number]: [insert section title] ([insert number of lessons] lessons).
+  &lt;/p&gt;
+
+  &lt;h3 class="cbc-section-title"&gt;&lt;strong&gt;What you will gain&lt;/strong&gt;&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Access to ready-to-use example lesson plans aligned with CBE&lt;/li&gt;
+    &lt;li&gt;Access to ready-to-use step-by-step lesson guides aligned with CBE&lt;/li&gt;
+    &lt;li&gt;Opportunities to exchange your teaching experience with other teachers&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 class="cbc-section-title"&gt;&lt;strong&gt;Certification&lt;/strong&gt;&lt;/h3&gt;
+
+  &lt;p&gt;
+    There will be a certificate at the end of this course. In order to get accreditation for this course
+    you should participate in all forum discussions by:
+  &lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Starting a discussion in each topic outlining your experience, &lt;em&gt;and&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Responding to at least two forum posts by your colleagues in each topic.&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>1</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <component>$@NULL@$</component>
+  <itemid>$@NULL@$</itemid>
+  <timemodified>1773784410</timemodified>
+  <course_format_options id="8">
+    <format>flexsections</format>
+    <name>collapsed</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="9">
+    <format>flexsections</format>
+    <name>parent</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="10">
+    <format>flexsections</format>
+    <name>visibleold</name>
+    <value>1</value>
+  </course_format_options>
+</section>

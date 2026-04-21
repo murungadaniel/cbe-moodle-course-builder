@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="10">
+  <number>8</number>
+  <name>🏅 Completion Certificate</name>
+  <summary>&lt;!-- ===============  CERTIFICATION CONTAINER  =============== --&gt;
+&lt;div style="background:#f7fbfc; border:1px solid #d9e7ec; border-radius:16px; padding:20px; margin:10px 0; color:#2f3a3d; font-size:15px; line-height:1.5;"&gt;
+
+  &lt;div style="font-size:20px; font-weight:800; color:#0b5565; margin-bottom:10px;"&gt;
+    🎓 Course Completion &amp; Certification
+  &lt;/div&gt;
+
+  &lt;p style="margin:0 0 14px 0;"&gt;
+    A certificate of completion is awarded at the end of this course to participants who have actively engaged with all learning activities.
+  &lt;/p&gt;
+
+  &lt;div style="background:white; border:1px solid #e3eef2; border-radius:12px; padding:14px; margin-bottom:14px;"&gt;
+    &lt;div style="font-weight:800; margin-bottom:8px; color:#0b5565;"&gt;
+      To qualify for certification, you must:
+    &lt;/div&gt;
+    &lt;ul style="margin:0; padding-left:18px;"&gt;
+      &lt;li&gt;Start at least &lt;strong&gt;one discussion&lt;/strong&gt; in &lt;strong&gt;each topic&lt;/strong&gt;, sharing your classroom experience or reflections.&lt;/li&gt;
+      &lt;li&gt;Respond to at least &lt;strong&gt;two forum posts&lt;/strong&gt; by your colleagues in &lt;strong&gt;each topic&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+
+  &lt;p style="margin:0;"&gt;
+    These discussions are designed to support reflection, peer learning, and the sharing of effective classroom practices.
+  &lt;/p&gt;
+
+&lt;/div&gt;
+</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>17</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <component>$@NULL@$</component>
+  <itemid>$@NULL@$</itemid>
+  <timemodified>1773753293</timemodified>
+  <course_format_options id="35">
+    <format>flexsections</format>
+    <name>collapsed</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="36">
+    <format>flexsections</format>
+    <name>parent</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="37">
+    <format>flexsections</format>
+    <name>visibleold</name>
+    <value>1</value>
+  </course_format_options>
+</section>

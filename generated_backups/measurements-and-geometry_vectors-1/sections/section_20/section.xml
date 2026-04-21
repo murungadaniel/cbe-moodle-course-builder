@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="20">
+  <number>11</number>
+  <name>🔢 Vectors in Real-Life</name>
+  <summary>&lt;div class="cbc-panel"&gt;
+
+  &lt;div class="cbc-panel-header"&gt;
+    &lt;div class="cbc-panel-title"&gt;
+      🔢 Vectors in Real-Life
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="cbc-panel-body"&gt;
+
+    &lt;!-- RESOURCES --&gt;
+    &lt;div class="cbc-subpanel"&gt;
+
+      &lt;div class="cbc-subpanel-title"&gt;
+        📚 Resources
+      &lt;/div&gt;
+
+      &lt;div class="cbc-link-row"&gt;
+
+        &lt;a href="https://innodems.github.io/CBC-Grade-10-Maths/external/lesson_plans/measurements-and-geometry/vectors-1/vectors-in-real-life.pdf"
+           target="_blank" rel="noopener"
+           class="cbc-button"&gt;
+          📄 Lesson Plan
+        &lt;/a&gt;
+
+        &lt;a href="https://innodems.github.io/CBC-Grade-10-Maths/external/lesson_plans/measurements-and-geometry/vectors-1/step-by-step-guide_vectors-in-real-life.pdf"
+           target="_blank" rel="noopener"
+           class="cbc-button"&gt;
+          🧑‍🏫 Step-by-step Guide
+        &lt;/a&gt;
+
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+
+    &lt;!-- LEARNING OBJECTIVES --&gt;
+    &lt;div class="cbc-listbox"&gt;
+
+      &lt;div class="cbc-listbox-title"&gt;
+        The lesson plan and step by step guide supports you to guide learners to:
+      &lt;/div&gt;
+
+      &lt;ul&gt;
+        &lt;li&gt;Appreciate the use of vectors in real-life situations&lt;/li&gt;
+      &lt;/ul&gt;
+
+    &lt;/div&gt;
+
+    &lt;!-- DISCUSSION --&gt;
+    &lt;div class="cbc-discussion"&gt;
+
+      &lt;div class="cbc-discussion-title"&gt;
+        💬 Discussion Forum: Share one classroom strategy or real-life example here
+      &lt;/div&gt;
+
+      &lt;p&gt;
+        Post at least once and respond to at least two colleagues.
+      &lt;/p&gt;
+
+      &lt;a href="$@FORUMVIEWBYID*27@$E"
+         target="_blank" rel="noopener"
+         class="cbc-button-warm"&gt;
+        💬 Open discussion forum
+      &lt;/a&gt;
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>27</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <component>$@NULL@$</component>
+  <itemid>$@NULL@$</itemid>
+  <timemodified>1773698680</timemodified>
+  <course_format_options id="11">
+    <format>flexsections</format>
+    <name>collapsed</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="12">
+    <format>flexsections</format>
+    <name>parent</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="13">
+    <format>flexsections</format>
+    <name>visibleold</name>
+    <value>1</value>
+  </course_format_options>
+</section>

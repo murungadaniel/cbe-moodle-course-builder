@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="20">
+    <contenthash>849497cf745b49f796712972530919f3f470078d</contenthash>
+    <contextid>23</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>real_number.jpg</filename>
+    <userid>4</userid>
+    <filesize>8271</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>real_number.jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="21">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>23</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773784376</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="22">
+    <contenthash>8917f394e3a141694cb880da70149386246dffb4</contenthash>
+    <contextid>23</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2</itemid>
+    <filepath>/</filepath>
+    <filename>Classifying whole numbers as odd, even in different situations.pdf</filename>
+    <userid>4</userid>
+    <filesize>134632</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>Classifying whole numbers as odd, even in different situations.pdf</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="23">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>23</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773698565</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="24">
+    <contenthash>d75d621dc90fe8ea1cf04c09e7af12b436adbb0c</contenthash>
+    <contextid>23</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2</itemid>
+    <filepath>/</filepath>
+    <filename>Step by step guide_Classifying whole numbers as odd, even in different situations.pdf</filename>
+    <userid>4</userid>
+    <filesize>166807</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>Step by step guide_Classifying whole numbers as odd, even in different situations.pdf</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="25">
+    <contenthash>7997769ee608c3cbbf1ee8ca9024b26147a02854</contenthash>
+    <contextid>31</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>KMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>2415876</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>KMS logo transparent.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="26">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>31</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="27">
+    <contenthash>1d5972c24a154719a52e865d82af438cc80c772e</contenthash>
+    <contextid>31</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>INNODEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>189461</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>INNODEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="28">
+    <contenthash>9a66f75a9f6bbbf7937c7b0c51ec7d312cb5fcea</contenthash>
+    <contextid>31</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>IDEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>136305</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>IDEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="29">
+    <contenthash>1d5972c24a154719a52e865d82af438cc80c772e</contenthash>
+    <contextid>32</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>INNODEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>189461</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>Server files: Schools/Kenyan/Grade 10/Numbers and Algebra/CBE topic delivery: Real Numbers/Logo KMS (File)/Files and subfolders/INNODEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="30">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>32</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="31">
+    <contenthash>9a66f75a9f6bbbf7937c7b0c51ec7d312cb5fcea</contenthash>
+    <contextid>33</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>IDEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>136305</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>Server files: Schools/Kenyan/Grade 10/Numbers and Algebra/CBE topic delivery: Real Numbers/Logo KMS (File)/Files and subfolders/IDEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="32">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>33</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695200</timecreated>
+    <timemodified>1773695200</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="61">
+    <contenthash>849497cf745b49f796712972530919f3f470078d</contenthash>
+    <contextid>38</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>real_number.jpg</filename>
+    <userid>4</userid>
+    <filesize>8271</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1773695720</timecreated>
+    <timemodified>1773695727</timemodified>
+    <source>real_number.jpg</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="62">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>38</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773695720</timecreated>
+    <timemodified>1773695727</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="165">
+    <contenthash>3f63852c3c4c1e1aeecdac3352c216873fb6adc1</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>KMS_logo.jpeg</filename>
+    <userid>4</userid>
+    <filesize>92744</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1773753293</timecreated>
+    <timemodified>1773753293</timemodified>
+    <source>KMS_logo.jpeg</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="166">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>4</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1773753293</timecreated>
+    <timemodified>1773753293</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="167">
+    <contenthash>1d5972c24a154719a52e865d82af438cc80c772e</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>INNODEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>189461</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>INNODEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="168">
+    <contenthash>9a66f75a9f6bbbf7937c7b0c51ec7d312cb5fcea</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>IDEMS_logo.png</filename>
+    <userid>4</userid>
+    <filesize>136305</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>IDEMS_logo.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="169">
+    <contenthash>1c2f4e7c7a0a5f09f7684a677f92e49562fbc3fb</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>participant line.svg</filename>
+    <userid>4</userid>
+    <filesize>178</filesize>
+    <mimetype>image/svg+xml</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>participant line.svg</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="170">
+    <contenthash>cdc00eeb24e5b6c48b02893efd5231033fedb2a9</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>mike signature.jpeg</filename>
+    <userid>4</userid>
+    <filesize>5850</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>mike signature.jpeg</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="171">
+    <contenthash>ec85f7303f086fb217d178185d4078564d0fbf6b</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>zach signature.png</filename>
+    <userid>4</userid>
+    <filesize>4823</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>zach signature.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="172">
+    <contenthash>e770c1bb23722223066e9fbf45244cc1a8521237</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>mike_signature_transparent.png</filename>
+    <userid>4</userid>
+    <filesize>2114548</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>mike_signature_transparent.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="173">
+    <contenthash>db0cfc943626df015751ea2679991e1d256e0b99</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>certificate_alignment_297mm_7segments.png</filename>
+    <userid>4</userid>
+    <filesize>2517</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>certificate_alignment_297mm_7segments.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="174">
+    <contenthash>0fb9ccf7d677d7d81dfe2d0e7dc93f03d3fa6a5f</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>David signature.png</filename>
+    <userid>4</userid>
+    <filesize>2187202</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773753294</timecreated>
+    <timemodified>1773753294</timemodified>
+    <source>David signature.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="362">
+    <contenthash>e8aff8305de855e889bbd0c6a620832f167e86f2</contenthash>
+    <contextid>23</contextid>
+    <component>mod_customcert</component>
+    <filearea>image</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>alignment vertical.png</filename>
+    <userid>4</userid>
+    <filesize>7643</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1773754840</timecreated>
+    <timemodified>1773754849</timemodified>
+    <source>alignment vertical.png</source>
+    <author>Santiago Borio</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

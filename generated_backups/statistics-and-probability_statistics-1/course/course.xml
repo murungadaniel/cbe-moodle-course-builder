@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="2" contextid="23">
+  <shortname>statistics-and-probability_statistics-1</shortname>
+  <fullname>Statistics 1</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This module is designed to equip teachers with tools on how to deliver the topic "Statistics 1." In the module, teachers will learn how to effectively design and deliver learner centered tasks that will help learners discover the beautiful mathematical concepts of Algebra and numbers. Teachers will also keep a journal entry of their interaction with learners and give constructive feedback on how to improve both the instruction materials and the delivery mechanisms&lt;/p&gt;</summary>
+  <summaryformat>0</summaryformat>
+  <format>flexsections</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1769126400</startdate>
+  <enddate>1800662400</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>0</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1769077059</timecreated>
+  <timemodified>1773760442</timemodified>
+  <requested>0</requested>
+  <showactivitydates>1</showactivitydates>
+  <showcompletionconditions>1</showcompletionconditions>
+  <pdfexportfont>$@NULL@$</pdfexportfont>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <category id="3">
+    <name>Top</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+  <courseformatoptions>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>hiddensections</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>coursedisplay</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>flexsections</format>
+      <sectionid>0</sectionid>
+      <name>showsection0title</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>flexsections</format>
+      <sectionid>0</sectionid>
+      <name>courseindexdisplay</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>flexsections</format>
+      <sectionid>0</sectionid>
+      <name>accordion</name>
+      <value>1</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>flexsections</format>
+      <sectionid>0</sectionid>
+      <name>cmbacklink</name>
+      <value>0</value>
+    </courseformatoption>
+  </courseformatoptions>
+</course>

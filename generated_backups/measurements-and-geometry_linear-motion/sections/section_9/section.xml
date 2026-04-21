@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="9">
+  <number>10</number>
+  <name>Files (internal)</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>8,9,10,13</sequence>
+  <visible>0</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <component>$@NULL@$</component>
+  <itemid>$@NULL@$</itemid>
+  <timemodified>1773695201</timemodified>
+  <course_format_options id="32">
+    <format>flexsections</format>
+    <name>collapsed</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="33">
+    <format>flexsections</format>
+    <name>parent</name>
+    <value>0</value>
+  </course_format_options>
+  <course_format_options id="34">
+    <format>flexsections</format>
+    <name>visibleold</name>
+    <value>1</value>
+  </course_format_options>
+</section>
