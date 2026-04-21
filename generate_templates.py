@@ -12,6 +12,7 @@ import pandas as pd
 CSV_FILE = 'Automatic-Links.csv'
 MASTER_TEMPLATE = 'template'  # Unpacked Moodle backup (same layout as .mbz contents)
 BASE_GITHUB_URL = "https://innodems.github.io/CBC-Grade-10-Maths/external/lesson_plans/"
+STUDENT_BASE_URL = "https://innodems.github.io/CBC-Grade-10-Maths/student/"
 OUTPUT_DIR = "generated_backups"
 
 SECTION_DIR_XML = os.path.join("sections", "section_2", "section.xml")
@@ -59,6 +60,17 @@ def full_url(base, path_val):
     return base.rstrip("/") + "/" + s.lstrip("/")
 
 
+def student_textbook_url(row):
+    filecase = row.get("Section Filecase")
+    if filecase is None or (isinstance(filecase, float) and pd.isna(filecase)):
+        return ""
+    section_slug = str(filecase).strip()
+    if not section_slug:
+        return ""
+    section_slug = section_slug.replace(" ", "-")
+    return STUDENT_BASE_URL.rstrip("/") + "/sec-" + section_slug.lstrip("-") + ".html"
+
+
 def learning_objectives_entity_rows(row):
     """Build &lt;li&gt;...&lt;/li&gt; lines (HTML-entity encoded) for section summary."""
     lines = []
@@ -77,14 +89,20 @@ def patch_section_summary_xml(text, row, lesson_title, forum_cm_id=2):
     sbs_url = full_url(BASE_GITHUB_URL, row.get("Step By Step Guide Path"))
     safe_title = html.escape(lesson_title, quote=True)
     text = re.sub(
-        r"<name>🔢 Lesson 1</name>",
-        f"<name>🔢 {xml_escape(lesson_title)}</name>",
+        r"<name> Lesson 1</name>",
+        f"<name> {xml_escape(lesson_title)}</name>",
         text,
         count=1,
     )
     text = text.replace("[Lesson 1 title]", safe_title)
     text = text.replace("[inset url here]", lp_url or "#", 1)
     text = text.replace("[inset url here]", sbs_url or "#", 1)
+    student_url = student_textbook_url(row)
+    text = text.replace(
+        "[Insert url for the student textbook on the relevant section or subsection]",
+        student_url or "#",
+        1,
+    )
     ul_inner = learning_objectives_entity_rows(row)
     text = re.sub(
         r"&lt;ul&gt;\s*&lt;li&gt;\[Learning outcome 1\]&lt;/li&gt;\s*&lt;/ul&gt;",
@@ -283,7 +301,7 @@ def insert_extra_lessons_into_moodle_backup(moodle_backup_path, extra_specs):
         sid, mid, title = spec["sid"], spec["mid"], spec["title"]
         s = ET.Element("section")
         ET.SubElement(s, "sectionid").text = str(sid)
-        ET.SubElement(s, "title").text = f"🔢 {title}"
+        ET.SubElement(s, "title").text = f" {title}"
         ET.SubElement(s, "directory").text = f"sections/section_{sid}"
         ET.SubElement(s, "parentcmid").text = ""
         ET.SubElement(s, "modname").text = ""
@@ -404,7 +422,7 @@ def apply_moodle_backup_bundle_metadata(
                         and directory.text == want
                         and title_el is not None
                     ):
-                        title_el.text = f"🔢 {title}"
+                        title_el.text = f"{title}"
                         break
 
     hierarchy = info.find("hierarchy")
@@ -481,6 +499,23 @@ def write_xml_pretty(root, filepath):
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(final_xml)
 
+
+def patch_frontpage_student_link(section_path, row):
+    path = os.path.join(section_path, "sections", "section_1", "section.xml")
+    if not os.path.exists(path):
+        return
+    with open(path, "r", encoding="utf-8") as f:
+        text = f.read()
+    student_url = student_textbook_url(row) or "#"
+    text = text.replace(
+        "[Insert url for the student textbook on the relevant section or subsection]",
+        student_url,
+        1,
+    )
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+
+
 def process_data():
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -506,6 +541,7 @@ def process_data():
         if os.path.exists(section_path):
             shutil.rmtree(section_path)
         shutil.copytree(MASTER_TEMPLATE, section_path)
+        patch_frontpage_student_link(section_path, first)
 
         lesson_specs = []
         for j, (_, row) in enumerate(gdf.iterrows()):

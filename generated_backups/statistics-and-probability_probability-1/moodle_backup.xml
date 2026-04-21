@@ -155,56 +155,56 @@
         </section>
         <section>
           <sectionid>2</sectionid>
-          <title>🔢 Introduction to Probability</title>
+          <title>Introduction to Probability</title>
           <directory>sections/section_2</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>11</sectionid>
-          <title>🔢 Probability Spaces</title>
+          <title>Probability Spaces</title>
           <directory>sections/section_11</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>12</sectionid>
-          <title>🔢 Mutually Exclusive Events</title>
+          <title>Mutually Exclusive Events</title>
           <directory>sections/section_12</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>13</sectionid>
-          <title>🔢 Independent Events</title>
+          <title>Independent Events</title>
           <directory>sections/section_13</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>14</sectionid>
-          <title>🔢 Addition Rule</title>
+          <title>Addition Rule</title>
           <directory>sections/section_14</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>15</sectionid>
-          <title>🔢 Multiplication Rule</title>
+          <title>Multiplication Rule</title>
           <directory>sections/section_15</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>16</sectionid>
-          <title>🔢 Probability Using Tree Diagrams</title>
+          <title>Probability Using Tree Diagrams</title>
           <directory>sections/section_16</directory>
           <parentcmid/>
           <modname/>
         </section>
         <section>
           <sectionid>17</sectionid>
-          <title>🔢 Probability in Real-Life</title>
+          <title>Probability in Real-Life</title>
           <directory>sections/section_17</directory>
           <parentcmid/>
           <modname/>
